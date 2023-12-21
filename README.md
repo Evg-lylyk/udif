@@ -1,4 +1,4 @@
-[![Управление данными и формами - УДиФ](logo_text 300х86.png)](https://infostart.ru/marketplace/udif/)
+[![Управление данными и формами - УДиФ](logo_text.png)](https://infostart.ru/marketplace/udif/)
 
 [![Join telegram chat](https://img.shields.io/badge/chat-telegram-blue?style=flat&logo=telegram)](https://t.me/udif_1c83) 
 [![Last release](https://img.shields.io/github/v/release/Evg-lylyk/udif?include_prereleases&label=last%20release&style=badge)](https://github.com/Evg-lylyk/udif/releases/latest)
