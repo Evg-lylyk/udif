@@ -34,5 +34,5 @@
 # Видео
 [Вебинар "Как управлять данными и формами в 1С и избежать ошибок заполнения"](https://www.youtube.com/watch?v=U6cENp94ogA)
  
-
- 
+# Новое в версиях 
+[2024.1: Больше возможностей управления контролями данных. Выгрузка, загрузка настроек](https://infostart.ru/journal/news/mir-1s/infostart-udif-2024-1-bolshe-vozmozhnostey-upravleniya-kontrolyami-dannykh-vygruzka-zagruzka-nastroe_2077290)
