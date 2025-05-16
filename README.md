@@ -35,6 +35,10 @@
 [Вебинар "Как управлять данными и формами в 1С и избежать ошибок заполнения"](https://www.youtube.com/watch?v=U6cENp94ogA)
  
 # Новое в версиях 
+[2025.2: общие контроли для нескольких объектов и настройка действий при ошибке в обработчиках](https://infostart.ru/journal/news/mir-1s/infostart-dataformwizard-2025-2-obshchie-kontroli-dlya-neskolkikh-obektov-i-nastroyka-deystviy-pri-o_2388912/)
+
+[2025.1: редактор кода и запроса, новые обработчики и другие улучшения](https://infostart.ru/journal/news/mir-1s/infostart-dataformwizard-2025-1-redaktor-koda-i-zaprosa-novye-obrabotchiki-i-drugie-uluchsheniya_2291828/)
+
 [2024.2: скрытие данных в журналах и произвольный запрос в качестве источника настроек](https://infostart.ru/journal/news/mir-1s/infostart-dataformwizard-2024-2-skrytie-dannykh-v-zhurnalakh-i-proizvolnyy-zapros-v-kachestve-istoch_2162794/)
 
 [2024.1: Больше возможностей управления контролями данных. Выгрузка, загрузка настроек](https://infostart.ru/journal/news/mir-1s/infostart-udif-2024-1-bolshe-vozmozhnostey-upravleniya-kontrolyami-dannykh-vygruzka-zagruzka-nastroe_2077290)
