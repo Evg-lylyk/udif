@@ -35,6 +35,9 @@
 [Вебинар IS DataFormWizard 04.07.2025](https://rutube.ru/video/6bbf8f62a00a5b74523b356c22a9a2cb/)
 
 [Вебинар "Как управлять данными и формами в 1С и избежать ошибок заполнения"](https://www.youtube.com/watch?v=U6cENp94ogA)
+
+# Статьи
+[Переопределение поиска по строке (Infostart DataFormWizard)](https://infostart.ru/1c/articles/2459016)
  
 # Новое в версиях 
 [2025.3: Переопределение ввода по строке и поддержка регистров сведений](https://infostart.ru/journal/news/mir-1s/infostart-dataformwizard-2025-3-pereopredelenie-vvoda-po-stroke-i-podderzhka-registrov-svedeniy_2429365/)
