@@ -40,6 +40,8 @@
 [Переопределение поиска по строке (Infostart DataFormWizard)](https://infostart.ru/1c/articles/2459016)
  
 # Новое в версиях 
+[2025.4: Переопределение представлений и управление данными расширений](https://infostart.ru/journal/news/mir-1s/infostart-dataformwizard-2025-4-pereopredelenie-predstavleniy-i-upravlenie-dannymi-rasshireniy_2487537)
+
 [2025.3: Переопределение ввода по строке и поддержка регистров сведений](https://infostart.ru/journal/news/mir-1s/infostart-dataformwizard-2025-3-pereopredelenie-vvoda-po-stroke-i-podderzhka-registrov-svedeniy_2429365/)
 
 [2025.2: Общие контроли для нескольких объектов и настройка действий при ошибке в обработчиках](https://infostart.ru/journal/news/mir-1s/infostart-dataformwizard-2025-2-obshchie-kontroli-dlya-neskolkikh-obektov-i-nastroyka-deystviy-pri-o_2388912/)
